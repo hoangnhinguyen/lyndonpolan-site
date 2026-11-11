@@ -1,6 +1,6 @@
 # Lyndon Polan — portfolio site
 
-Static version of lyndonpolan.com, ready for GitHub Pages. Plain HTML, CSS and a little
+Static version of <https://lyndonpolan.com>, ready for GitHub Pages. Plain HTML, CSS and a little
 JavaScript: nothing to install, nothing to build on GitHub's side. Check the full website here: <https://hoangnhinguyen.github.io/lyndonpolan-site/>.
 
 ## What is in here
