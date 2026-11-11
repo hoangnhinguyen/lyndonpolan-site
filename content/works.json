@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "caption": "Lyndon Polan, Untitled, Oil on wood panel 20x16, 2020",
+    "image": "images/1.jpg",
+    "thumb": "images/mini/1m.jpg",
+    "width": 900,
+    "height": 1073
+  },
+  {
+    "id": 2,
+    "caption": "Lyndon Polan, Aphrodite & Apollo, 30x60, Oil on canvas, 2020",
+    "image": "images/2.jpg",
+    "thumb": "images/mini/2m.jpg",
+    "width": 1500,
+    "height": 750
+  },
+  {
+    "id": 3,
+    "caption": "Lyndon Polan, Roxana & Alexander, 30x48, Oil on canvas, 2020",
+    "image": "images/3.jpg",
+    "thumb": "images/mini/3m.jpg",
+    "width": 1500,
+    "height": 938
+  },
+  {
+    "id": 4,
+    "caption": "Lyndon Polan, leanin’, Huile sur panneau de bois, 39x30, 2020",
+    "image": "images/4.jpg",
+    "thumb": "images/mini/4m.jpg",
+    "width": 900,
+    "height": 1173
+  },
+  {
+    "id": 5,
+    "caption": "Lyndon Polan, leanin' 2, Huile sur panneau de bois, 39x30, 2020",
+    "image": "images/5.jpg",
+    "thumb": "images/mini/5m.jpg",
+    "width": 900,
+    "height": 1173
+  },
+  {
+    "id": 6,
+    "caption": "Lyndon Polan, fire starter, Huile sur toile, 60x40, 2020",
+    "image": "images/6.jpg",
+    "thumb": "images/mini/6m.jpg",
+    "width": 900,
+    "height": 1350,
+    "sold": true
+  },
+  {
+    "id": 7,
+    "caption": "Lyndon Polan, this is fine, Huile sur toile, 60x40, 2020",
+    "image": "images/7.jpg",
+    "thumb": "images/mini/7m.jpg",
+    "width": 900,
+    "height": 1350,
+    "sold": true
+  },
+  {
+    "id": 8,
+    "caption": "Lyndon Polan, Untitled, Huile sur panneau de bois, 11.5x11.5, 2020",
+    "image": "images/8.jpg",
+    "thumb": "images/mini/8m.jpg",
+    "width": 900,
+    "height": 900
+  },
+  {
+    "id": 9,
+    "caption": "Lyndon Polan, Untitled2, Huile sur panneau de bois, 11.5x11.5, 2020",
+    "image": "images/9.jpg",
+    "thumb": "images/mini/9m.jpg",
+    "width": 900,
+    "height": 900
+  },
+  {
+    "id": 10,
+    "caption": "Lyndon Polan, Sunburn, Huile sur panneau de bois, 16x16, 2020",
+    "image": "images/10.jpg",
+    "thumb": "images/mini/10m.jpg",
+    "width": 900,
+    "height": 900
+  },
+  {
+    "id": 11,
+    "caption": "Lyndon Polan, untitled, Huile sur panneau de bois, 16x12, 2020",
+    "image": "images/11.jpg",
+    "thumb": "images/mini/11m.jpg",
+    "width": 900,
+    "height": 1188
+  },
+  {
+    "id": 12,
+    "caption": "Lyndon Polan, the race, Huile sur panneau de bois, 36x24, 2018",
+    "image": "images/12.jpg",
+    "thumb": "images/mini/12m.jpg",
+    "width": 900,
+    "height": 1100
+  },
+  {
+    "id": 13,
+    "caption": "Lyndon Polan, sexy burka, Huile sur toile, 50x32, 2018",
+    "image": "images/13.jpg",
+    "thumb": "images/mini/13m.jpg",
+    "width": 900,
+    "height": 1392
+  },
+  {
+    "id": 14,
+    "caption": "Lyndon Polan Octo.png, Huile sur toile, 40x60, 2019",
+    "image": "images/14.jpg",
+    "thumb": "images/mini/14m.jpg",
+    "width": 1500,
+    "height": 961
+  },
+  {
+    "id": 15,
+    "caption": "Lyndon Polan, Painting, Huile sur toile, 48x36, 2019",
+    "image": "images/15.jpg",
+    "thumb": "images/mini/15m.jpg",
+    "width": 900,
+    "height": 1191
+  },
+  {
+    "id": 16,
+    "caption": "Lyndon Polan, quick study, Huile sur panneau de bois, 13x10, 2019",
+    "image": "images/16.jpg",
+    "thumb": "images/mini/16m.jpg",
+    "width": 900,
+    "height": 1118
+  },
+  {
+    "id": 17,
+    "caption": "Lyndon Polan, Best Served Cold, Huile sur toile, 60x40, 2019",
+    "image": "images/17.jpg",
+    "thumb": "images/mini/17m.jpg",
+    "width": 900,
+    "height": 1346
+  }
+]

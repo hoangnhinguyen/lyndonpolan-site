@@ -1,0 +1,126 @@
+{
+  "title": "Lyndon Polan",
+  "description": "Lyndon Polan is a multidisciplinary artist based in Montreal with a primary focus on painting.",
+  "social": {
+    "facebook": "https://www.facebook.com/lyndon.polan/",
+    "instagram": "https://www.instagram.com/lyndonpolan/"
+  },
+  "contact_fallback_email": "l_polan92@hotmail.com",
+  "emailjs": {
+    "service_id": "service_l35wp3h",
+    "template_id": "template_fuohyra",
+    "user_id": "user_clKMSzwMOkzTvrrZH7mpJ"
+  },
+  "home_columns": [
+    [
+      1,
+      5,
+      9,
+      14,
+      17
+    ],
+    [
+      2,
+      6,
+      10,
+      15
+    ],
+    [
+      3,
+      7,
+      11,
+      12
+    ],
+    [
+      4,
+      8,
+      13,
+      16
+    ]
+  ],
+  "text": {
+    "en": {
+      "Works": "Works",
+      "Bio": "Bio",
+      "BioText": "Lyndon Polan is a multidisciplinary artist with a primary focus on painting. Born in Montreal, he trained at art schools in Paris, Amsterdam and Biarritz. During his studies abroad he developed and refined a methodology, which he continues to apply in Montreal. Utilizing digital tools and media to produce initial images—frequently layered and otherwise unthinkable—he then strains the techniques and materials of oil painting to translate them onto the canvas. The paintings are further complicated by the approximations of the hand and eye, resulting in minor “glitches” or infidelities that arise when a file migrates to a new format. Often produced in series, his work retains references to its source material while also inhabiting a separate logic.",
+      "Artist statement": "Artist statement",
+      "ArtistStatementText": "I like the challenge of using a traditional medium like oil painting to tackle modern day imagery, much of which is born digital or manipulated to the point of being unrecognizable in real life. Like most contemporary artists my work is shaped by and in response to the Internet: This chaotic cultural marketplace where scrolling and searching lead to immersive niches, monotonous or plural, and to unsettling chance encounters. Simply put, I work much like a journalist, archiving and documenting my Internet activity, moderating a variety of imagery and themes with frequent interjections of my own. To sustain dialogue with the viewer, I fuel interaction between the paintings in a series. I create artificial characters and place them in sets. Without necessarily implying a narrative, I focus on certain rules, some of which are pre-determined.",
+      "Name": "Name",
+      "Send": "Send"
+    },
+    "fr": {
+      "Works": "Oeuvres d'art",
+      "Bio": "Biographie",
+      "BioText": "Lyndon Polan est un artiste multidisciplinaire dont l'activité principale est la peinture. Né à Montréal, il a été formé dans des écoles d'art à Paris, Amsterdam et Biarritz. Au cours de ses études à l’étranger, il a développé et perfectionné une méthodologie qu'il continue d'appliquer à Montréal. Il utilise les outils et les médias numériques pour produire des images initiales, souvent superposées qui défient la pensée logique. Il met ensuite à l’épreuve les techniques et les matériaux de la peinture à l’huile pour les traduire sur la toile. Les peintures sont complexifiées par les approximations de la main et de l'œil, entraînant des « glitches » mineurs ou des infidélités, comme lorsqu'un fichier migre vers un nouveau format. Souvent produites en série, ses œuvres conservent des références à leur source tout en répondant à une logique distincte.",
+      "Artist statement": "Démarche artistique",
+      "ArtistStatementText": "J'aime le défi que représente l'utilisation d'un médium traditionnel, comme la peinture à l'huile pour aborder l'imagerie moderne, dont une grande partie est née numérique ou manipulée au point d'être méconnaissable dans la vie réelle. Comme la plupart des artistes contemporains, mon travail est façonné par et en réponse à l’Internet : ce marché culturel chaotique où le défilement et la recherche conduisent à des niches immersives, monotones ou plurielles, et à des rencontres fortuites troublantes. Autrement dit, je travaille comme un journaliste, en archivant et en documentant mon activité sur Internet, en modérant une variété d'images et de thèmes avec de fréquentes interjections de mon cru. Pour entretenir le dialogue avec le spectateur, j'alimente l'interaction entre les tableaux d'une série. Je crée des personnages artificiels et les place dans des décors. Sans nécessairement impliquer une narration, je me concentre sur certaines règles, dont certaines sont prédéterminées.",
+      "Name": "Nom",
+      "Send": "Envoyer"
+    }
+  },
+  "cv": {
+    "name": "Lyndon Polan",
+    "contact": [
+      "99 Chabanel Ouest, H2N 1C3, Suite# 217",
+      "514 754-9856 / l_polan92@hotmail.com"
+    ],
+    "sections": [
+      {
+        "title": "EDUCATION",
+        "items": [
+          "2017 - 2018 John Molson School of Business, Montreal (Graduate Certificate in Entrepreneurship)",
+          "2014 - 2017 ESA des Rocailles, Biarritz, CEAP, DNAP (Diplôme National d’Art Plastique)",
+          "2013 - 2014 Gerrit Rietveld Academie, Amsterdam. Basic year",
+          "2012 - 2013 Atelier de Sèvres, Paris. Preparatory School",
+          "2010 - 2012 John Abbott College, Montreal. Fine Arts. DEC"
+        ]
+      },
+      {
+        "title": "EXHIBITIONS",
+        "items": [
+          "2020 Atelier Galerie 2112, collective exhibition “Fièvre Hivernale”, curator: Antoine Giasson, Montreal, CA",
+          "2019 Atelier Galerie 2112, collective exhibition “Expo Popup Art Cible: Novembre”, Montreal, CA",
+          "2019 Pacart Québec, collective exhibition “Soirée RECONNAISSANCE”, Montreal, CA",
+          "2019 Atelier Galerie 2112, collective exhibition “Expo Popup Art Cible: Octobre”, Montreal, CA",
+          "2018 Eastern Bloc, collective exhibition “What the Pop!”, curator: Marie-Michèle Fillion, Montreal, CA",
+          "2018 Stewart Hall Art Gallery, collective exhibition, permanent collection, Montreal, CA",
+          "2017 La Cité des Arts, collective exhibition “Bruit de fond/White Noise”, curator: Marie Cantos, Bayonne, FR",
+          "2017 Blanchisserie Berrogain, installation, exhibition “New Data”, curator: Barthélémy Toguo, Biarritz, FR",
+          "2016 Water tower, performance, video installation, festival “Bandits-Mages”, Bourges, FR",
+          "2016 Blanchisserie Berrogain, video installation, exhibition “Des Enchantés” curator: Natacha Nisic, Biarritz, FR",
+          "2016 Ville de Bayonne Public poster campaign, curator: Didier Arnaudet, Bayonne, FR",
+          "2016 Luna Negra Café-Théâtre, performance, “Ainsi font font font”, Bayonne, FR",
+          "2015 Blanchisserie Berrogain, installation “La chambre des merveilles”, curator: Philippe Mayaux, Biarritz, FR",
+          "2015 Blanchisserie Berrogain, video installation, “L’insularité”, Biarritz, FR",
+          "2015 Quartier des Rocailles, performance, “Lumières à tous les étages”, Biarritz, FR",
+          "2015 La Petite Escalère, land art installation, “Le jardin des Rocailles”, curator: Denis Darzacq, Urt, FR",
+          "2014 Blanchisserie Berrogain, video installation, “États de corps”, with BTS Audiovisuel, Biarritz, FR",
+          "2014 Cinéma Le Royal, projection of the film “Arrêt 5 minutes”, shot with Nora Martirosyan, Biarritz, FR",
+          "2014 Projection of “Once Upon a Time” in the School of Creative Media’s 360° Gallery, Hong Kong",
+          "2014 Gerrit Rietveld Academie, exhibition “Fashion show by the Basic Year”, Amsterdam, NL"
+        ]
+      },
+      {
+        "title": "PUBLICATIONS",
+        "items": [
+          "2018 Journal l’étiquette #2, Mille Putois in collaboration with La Brasserie Dunham",
+          "2017 Journal New Data, Barthélémy Toguo",
+          "2016 De vraies-fausses affiches, Véronique Fourcade, Journal Sud-Ouest du 06/05/2016",
+          "2014 Magazine Contemporary Clues for Tomorrow's Trends, Matthias Kreutzer"
+        ]
+      },
+      {
+        "title": "WORKSHOPS AND INTERNSHIPS",
+        "items": [
+          "2017 Internship, gallery Espacio Mexico (cultural institute of Mexico) with artist Manuel Rocha, Montreal, CA",
+          "2017 Workshop with the artist Barthélémy Toguo, Biarritz, FR",
+          "2016 Internship at the video production agency Romeo et Fils, Montreal, CA",
+          "2016 Workshop with the artist Natacha Nisic, Biarritz, FR",
+          "2015 Workshop with the artist Phillip Mayaux, Biarritz, FR",
+          "2015 Workshop with the artist Denis Darzacq, Biarritz, FR",
+          "2014 Workshop with the film director Nora Martirosyan, Biarritz, FR"
+        ]
+      }
+    ]
+  }
+}

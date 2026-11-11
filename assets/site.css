@@ -1,0 +1,121 @@
+/* Lyndon Polan — portfolio styles.
+   The first block reproduces the rules of the original site in the same order,
+   so the layout matches it. Additions for the static version are at the bottom. */
+
+@font-face {
+  font-family: 'Roboto'; font-style: normal; font-weight: 400; font-display: swap;
+  src: url(fonts/roboto-latin-ext-400-normal.woff2) format('woff2');
+  unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto'; font-style: normal; font-weight: 400; font-display: swap;
+  src: url(fonts/roboto-latin-400-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto'; font-style: normal; font-weight: 700; font-display: swap;
+  src: url(fonts/roboto-latin-ext-700-normal.woff2) format('woff2');
+  unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto'; font-style: normal; font-weight: 700; font-display: swap;
+  src: url(fonts/roboto-latin-700-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+
+/* ---------- original rules ---------- */
+body { font-family: Roboto, Arial, sans-serif; margin: 0; padding: 0; }
+html { background: #fff; }
+
+.navigation { display: block; margin-top: 40px; margin-bottom: 20px; margin-left: 70px; }
+.artistNameA img { max-width: 150px; margin-left: -33px; }
+.soldLabel { background: #fe0005; color: #fff; padding: 2px 5px; border-radius: 3px; margin-left: 3px; margin-right: 4px; }
+
+.headerContainer { float: left; height: 100%; width: 280px; position: fixed; border-right: 1px solid #e4e4e4; background-color: #fff; }
+.headerContainer div a { text-decoration: none; color: #1f1f1f; font-style: normal; text-transform: none; letter-spacing: 0; font-size: 13px; }
+.langSwitchFr { cursor: pointer; font-size: 13px; color: #1f1f1f; }
+.headerContainer .base { width: 100%; margin: 8px 0; }
+.headerContainer div a:hover { color: #000; }
+
+.mainLayout { margin-left: 330px; }
+.mainLayOutInner { padding-top: 20px; }
+.bioBlock { font-size: 13px; max-width: 720px; line-height: 1.5; padding-top: 10px; margin-right: 20px; color: #1f1f1f; }
+.artistName { width: 100px; cursor: pointer; }
+.artistNameA { text-align: left; }
+
+.row { display: flex; flex-wrap: wrap; margin-right: 10px; }
+.column, .row { padding: 0 4px; }
+.column { flex: 24% 1; max-width: 24%; }
+.column img { margin-top: 8px; vertical-align: middle; width: 100%; }
+
+@media screen and (max-width: 800px) {
+  .column { flex: 50% 1; max-width: 50%; }
+  .pic1M { width: 100% !important; height: unset !important; }
+  .imageWraper .arrow1, .imageWraper .arrow2 { opacity: 1; }
+}
+@media screen and (max-width: 600px) {
+  .column { flex: 100% 1; max-width: 100%; }
+  .bioBlock, .contact-form { margin-right: 10px !important; }
+  .imageWraper .arrow1, .imageWraper .arrow2 { opacity: 1; }
+  .headerContainer { float: left; width: 100%; position: -webkit-sticky; position: sticky; margin-bottom: 30px; border-right: 0; background-color: #fff; }
+  .pic1M { height: unset !important; width: 100%; }
+  .mainLayout { margin-left: 10px; }
+  .imageWraper { padding-right: 10px !important; margin-bottom: 30px; width: -webkit-fit-content; width: -moz-fit-content; width: fit-content; }
+}
+
+.picText { position: absolute; background: #fff; opacity: 0; padding: 5px; font-size: 13px; line-height: 1.8em; }
+.pic1:hover .picText { opacity: 1; transition: .5s; }
+.pic1:hover img { opacity: .9; }
+
+.pic1M { height: calc(100vh - 200px); }
+.contact-form label { font-size: 12px; }
+.pic1MDisc { max-width: 400px; font-size: 13px; line-height: 1.5; margin-top: 8px; }
+.mainLayOutInner a { text-decoration: none; color: #000; }
+.imageWraper { padding-right: 35px; margin-bottom: 30px; width: -webkit-fit-content; width: -moz-fit-content; width: fit-content; }
+.imageWraper:hover .arrow1, .imageWraper:hover .arrow2 { opacity: 1; }
+.arrow1 a, .arrow2 a { padding: 5px; color: #313131; }
+.arrow1, .arrow2 { opacity: 0; font-size: 25px; font-weight: 700; cursor: pointer; transition: .5s; }
+.arrow2 { float: right; }
+
+.social { width: 25px; cursor: pointer; margin-right: 10px; margin-top: 10px; }
+.social:hover { opacity: .8; }
+
+input[type=email], input[type=hidden], input[type=text], select, textarea { width: 100%; padding: 12px 20px; margin: 8px 0; display: inline-block; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+input[type=submit] { width: 100%; background-color: #000; color: #fff; padding: 14px 20px; margin: 8px 0; border: none; border-radius: 4px; cursor: pointer; }
+input[type=submit]:hover { opacity: .8; }
+.contact-form { max-width: 600px; margin-top: 30px; margin-right: 40px; margin-bottom: 40px; }
+
+/* ---------- additions for the static version ---------- */
+
+/* Language: both languages are in the page; the <html> class picks one. */
+.t-fr { display: none; }
+html.fr .t-fr { display: inline; }
+html.fr .t-en { display: none; }
+
+/* The language switch is a real button (keyboard reachable) that looks like the original text link. */
+button.langSwitchFr { background: none; border: 0; padding: 0; margin: 0; font-family: inherit; line-height: inherit; vertical-align: baseline; }
+
+/* Reserve the image's space before it loads, so the page does not jump. */
+.column img, .artistNameA img { height: auto; }
+
+/* Wide paintings: never let the image run past the right edge of the window.
+   Tall paintings keep the original size (window height minus 200px). */
+@media screen and (min-width: 801px) {
+  .pic1M { width: auto; height: min(calc(100vh - 200px), calc((100vw - 385px) / var(--ratio, 0.01))); }
+}
+
+/* Keyboard focus */
+a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 2px solid #000; outline-offset: 2px; }
+.imageWraper:focus-within .arrow1, .imageWraper:focus-within .arrow2 { opacity: 1; }
+.pic1:focus-within .picText, a:focus-visible .picText { opacity: 1; }
+
+/* Contact form status line */
+.formStatus { font-size: 12px; line-height: 1.5; min-height: 18px; margin: 4px 0 0; color: #1f1f1f; }
+.formStatus.error { color: #c00004; }
+input[type=submit][disabled] { opacity: .5; cursor: default; }
+
+.notFound { font-size: 13px; padding-top: 30px; }
+
+/* Between 601 and 800px the original meant two columns, but each column's padding pushed the
+   second one onto its own row. Counting the padding inside the 50% gives the intended two. */
+@media screen and (min-width: 601px) and (max-width: 800px) { .column { box-sizing: border-box; } }
